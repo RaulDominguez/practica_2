@@ -1,0 +1,39 @@
+.menu{
+  line-height:30px;
+  background-color: lightblue;
+  height:700px;
+  width:200px;
+  float:left;
+  padding:5px;
+}
+
+.encabezado{
+  background-image: url("https://asyoues.files.wordpress.com/2010/11/crear_patron_00_141.jpg");
+  color:white;
+  text-align:center;
+  padding:5px;
+}
+
+.contenido{
+  background-image: url("http://lda.cr/wp-content/uploads/2015/03/fondo-del-sitio-web2.jpg");
+  float:left;
+  width: 1110px;
+  height: 700px;
+  padding:5px;
+  font-family: sans-serif;
+}
+.pie{
+  background-image: url("https://asyoues.files.wordpress.com/2010/11/crear_patron_00_141.jpg");
+  padding: 5px;
+  color:orange;
+  clear:both;
+  text-align:center;
+  border-style: solid;
+  border-color: black;
+}
+img{
+  height: auto;
+}
+#titulo{
+  font-style: italic;
+}
